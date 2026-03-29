@@ -2,8 +2,6 @@
 
 <img width="1920" height="1080" alt="Screenshot_20260329_180329" src="https://github.com/user-attachments/assets/423d0527-987a-4ae7-baf6-9d3903cb8f50" />
 
------------------------------------
-
 # Start The Installation:
 
 Before you started, get these pakages:
