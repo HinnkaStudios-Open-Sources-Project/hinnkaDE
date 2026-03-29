@@ -17,6 +17,14 @@ Fedora:
 
 (whatever you distro on, like Arch, Debian, and Fedora)
 
+# Non-Manual:
+
+Try [shell file installer/uninstaller](https://github.com/kk2lly/hinnkaDE/releases/tag/Shell) for new users
+
+-----------------------------
+
+# Manual:
+
 The [bash](https://github.com/kk2lly/hinnkaDE/blob/main/hinnkaDE.sh) script must be to `/usr/local/bin` or `/bin` (feel free to edit)
 
 The [wallpaper image](https://github.com/kk2lly/hinnkaDE/blob/main/Wallpaper.png) also must be to `/usr/local/bin` or `/bin` (feel free to change the wallpaper whatever its png file)
@@ -27,7 +35,9 @@ Once done, log out to change desktop session to ''hinnkaDE'' and log back on and
 
 NOTE: If you forgot to do `chmod +x hinnkaDE.sh` or installing `openbox` and `xfce4-palne`, it may not working
 
-Try [shell file installer/uninstaller](https://github.com/kk2lly/hinnkaDE/releases/tag/Shell) for new users
+-----------------------------
+
+# Preview:
 
 <img width="1920" height="1080" alt="Screenshot_20260329_180329" src="https://github.com/user-attachments/assets/423d0527-987a-4ae7-baf6-9d3903cb8f50" />
 
