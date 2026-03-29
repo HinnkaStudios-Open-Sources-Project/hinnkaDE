@@ -20,4 +20,4 @@ The [wallpaper image](https://github.com/kk2lly/hinnkaDE/blob/main/Wallpaper.png
 
 The [desktop session](https://github.com/kk2lly/hinnkaDE/blob/main/hinnkaDE.desktop) file must be to `/usr/share/xsession` (this is only thing)
 
-Once done, log out to change desktop session to ''hinnkaDE'', log on and done!
+Once done, log out to change desktop session to ''hinnkaDE'' and log back on and done!
