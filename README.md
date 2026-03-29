@@ -20,9 +20,9 @@ Before you started, get these pakages:
 
 The [bash](https://github.com/kk2lly/hinnkaDE/blob/main/hinnkaDE.sh) script must be to `/usr/local/bin` or `/bin` (feel free to edit)
 
-The [wallpaper image](https://github.com/kk2lly/hinnkaDE/blob/main/Wallpaper.png) also must be to `/usr/local/bin` or `/bin` (feel free to edit)
+The [wallpaper image](https://github.com/kk2lly/hinnkaDE/blob/main/Wallpaper.png) also must be to `/usr/local/bin` or `/bin` (feel free to change the wallpaper)
 
-The [desktop session](https://github.com/kk2lly/hinnkaDE/blob/main/hinnkaDE.desktop) file must be to `/usr/share/xsession` (this is only thing, its editable)
+The [desktop session](https://github.com/kk2lly/hinnkaDE/blob/main/hinnkaDE.desktop) file must be to `/usr/share/xsession` (keep default or edit)
 
 Once done, log out to change desktop session to ''hinnkaDE'' and log back on and done!
 
