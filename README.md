@@ -66,7 +66,7 @@ Then, type copy the desktop session file:
 
 4: Once done, log out to change desktop session to ''hinnkaDE'' and log back on and done!
 
-NOTE: If you forgot to do `chmod +x hinnkaDE.sh` or installing `openbox` and `xfce4-panel`, it may not working
+NOTE: If you forgot to do `sudo chmod +x /usr/local/bin/hinnkaDE/hinnkaDE.sh` or installing `openbox` and `xfce4-panel`, it may not working
 
 
 
