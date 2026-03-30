@@ -39,6 +39,11 @@ NOTE: If you forgot to do `chmod +x hinnkaDE.sh` or installing `openbox` and `xf
 
 # Preview:
 
+My hardware:
 <img width="1920" height="1080" alt="Screenshot_20260329_180329" src="https://github.com/user-attachments/assets/423d0527-987a-4ae7-baf6-9d3903cb8f50" />
+
+
+Virtual machine:
+<img width="1920" height="1080" alt="Screenshot_20260330_132643" src="https://github.com/user-attachments/assets/3048445b-49d3-49a8-aa59-df9b4dae0004" />
 
 -----------------------------
