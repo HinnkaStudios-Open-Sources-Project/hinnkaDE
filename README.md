@@ -32,17 +32,21 @@ Once done, type `cd hinnkaDE`
 
 
 
-2: Make `hinnkaDE` folder on `/usr/local/bin` or `/bin` like this:
+2: Make `hinnkaDE` folder on `/usr/local/bin` like this:
 
-`sudo mkdir /usr/local/bin/hinnkaDE` or `sudo mkdir /bin/hinnkaDE`
+`sudo mkdir /usr/local/bin/hinnkaDE`
 
-Copy the bash script to: `/usr/local/bin/hinnkaDE` or `/bin/hinnkaDE`
+Copy the bash script to: `/usr/local/bin/hinnkaDE`
 
-`sudo cp hinnkaDE.sh /usr/local/bin/hinnkaDE` or `sudo cp hinnkaDE.sh /bin/hinnkaDE`
+`sudo cp hinnkaDE.sh /usr/local/bin/hinnkaDE`
 
-Copy the wallpaper image to: `/usr/local/bin` or `/bin`
+Make shell file executable:
 
-`sudo cp Wallpaper.png /usr/local/bin/hinnkaDE` or `sudo cp Wallpaper.png /bin/hinnkaDE`
+`sudo chmod +x /usr/local/bin/hinnkaDE/hinnkaDE.sh`
+
+Copy the wallpaper image to: `/usr/local/bin`
+
+`sudo cp Wallpaper.png /usr/local/bin/hinnkaDE`
 
 
 
