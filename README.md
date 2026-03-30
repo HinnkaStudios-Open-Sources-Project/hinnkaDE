@@ -5,13 +5,13 @@
 Before you started, get these pakages:
 
 Arch:
-`sudo pacman -S feh openbox xfce4-palne`
+`sudo pacman -S feh openbox xfce4-panel`
 
 Debian:
-`sudo apt install feh openbox xfce4-palne`
+`sudo apt install feh openbox xfce4-panel`
 
 Fedora:
-`sudo dnf install feh openbox xfce4-palne`
+`sudo dnf install feh openbox xfce4-panel`
 
 (ONLY FOR LINUX USERS)
 
@@ -29,7 +29,8 @@ Get `install.sh` from [release](https://github.com/kk2lly/hinnkaDE/releases/tag/
 
 Once done, type `cd hinnkaDE`
 
------------------------------
+
+
 
 2: Make `hinnkaDE` folder on `/usr/local/bin` or `/bin` like this:
 
@@ -43,7 +44,8 @@ Copy the wallpaper image to: `/usr/local/bin` or `/bin`
 
 `sudo cp Wallpaper.png /usr/local/bin/hinnkaDE` or `sudo cp Wallpaper.png /bin/hinnkaDE`
 
------------------------------
+
+
 
 3: Copy the desktop session file must be to `/usr/share/xsessions`
 
@@ -55,13 +57,15 @@ Then, type copy the desktop session file:
 
 `sudo cp hinnkaDE.desktop /usr/share/xsessions/`
 
------------------------------
+
+
 
 4: Once done, log out to change desktop session to ''hinnkaDE'' and log back on and done!
 
-NOTE: If you forgot to do `chmod +x hinnkaDE.sh` or installing `openbox` and `xfce4-palne`, it may not working
+NOTE: If you forgot to do `chmod +x hinnkaDE.sh` or installing `openbox` and `xfce4-panel`, it may not working
 
------------------------------
+
+
 
 # Preview:
 
