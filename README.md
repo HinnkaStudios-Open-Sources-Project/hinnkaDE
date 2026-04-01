@@ -29,7 +29,6 @@ Get `install.sh` from [release](https://github.com/kk2lly/hinnkaDE/releases/tag/
 
 Once done, type `cd hinnkaDE`
 
-
 2: Make `hinnkaDE` folder on `/usr/local/bin` like this:
 
 `sudo mkdir /usr/local/bin/hinnkaDE`
@@ -74,25 +73,27 @@ Virtual machine:
 
 # Changing Wallpaper Without Logging Off And Re-Logging On
 
+Before getting starting, Open the terminal and type
 
-1: Open the terminal and type: `git clone https://github.com/kk2lly/hinnkaDE`
+`rm -rf hinnkaDE`
+
+`git clone https://github.com/kk2lly/hinnkaDE`
 
 Once done, type `cd hinnkaDE`
 
-
-2: Overwrite the wallpaper image to: `/usr/local/bin`
+Overwrite the wallpaper image to: `/usr/local/bin`
 
 `sudo cp Wallpaper.png /usr/local/bin/hinnkaDE`
 
-3: Overwrite the shell file executable:
+Overwrite the shell file executable:
 
 `sudo chmod +x /usr/local/bin/hinnkaDE/hinnkaDE.sh`
 
-4: Execute it
+Execute it
 
 `cd /usr/local/bin/hinnkaDE/`
 `./hinnkaDE.sh`
 
-5: Your done!
+Your done!
 
 Chaning wallpaper without logging off is easy!
