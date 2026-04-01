@@ -97,3 +97,5 @@ Execute it
 Your done!
 
 Chaning wallpaper without logging off is easy!
+
+If the panel bugged, logoff and re-logon
