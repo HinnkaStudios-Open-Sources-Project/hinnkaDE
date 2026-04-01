@@ -73,7 +73,7 @@ Virtual machine:
 
 # Changing Wallpaper Without Logging Off And Re-Logging On
 
-Before getting starting, Open the terminal and type
+Before getting starting, Open the terminal and type:
 
 `rm -rf hinnkaDE`
 
