@@ -27,7 +27,7 @@ Get `install.sh` from [release](https://github.com/kk2lly/hinnkaDE/releases/tag/
 
 1: Open the terminal and type: 
 
-`git clone https://github.com/kk2lly/hinnkaD`
+`git clone https://github.com/kk2lly/hinnkaDE`
 
 Or
 
